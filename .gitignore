@@ -220,4 +220,7 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
+hosts
+
+
 # End of https://www.gitignore.io/api/python,pycharm
